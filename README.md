@@ -1,0 +1,2 @@
+# LatteArtMachine
+For ECE class
